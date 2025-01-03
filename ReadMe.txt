@@ -56,3 +56,6 @@ https://www.twilio.com/docs/whatsapp
 
 #Twilio Phone Number guidelines
 https://www.twilio.com/en-us/guidelines
+
+
+# Clarification this project is intended to be use/place inside elizaos project packages, this can't work alone
