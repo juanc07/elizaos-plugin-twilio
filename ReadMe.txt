@@ -59,3 +59,6 @@ https://www.twilio.com/en-us/guidelines
 
 
 # Clarification this project is intended to be use/place inside elizaos project packages, this can't work alone
+
+# Sample implementation can be found here 
+https://github.com/juanc07/AgentSoulSpark
