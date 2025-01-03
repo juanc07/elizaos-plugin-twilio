@@ -62,3 +62,17 @@ https://www.twilio.com/en-us/guidelines
 
 # Sample implementation can be found here 
 https://github.com/juanc07/AgentSoulSpark
+
+# Usage Sample
+
+The message that you want to send must be inside a Single Quote or double quotes
+
+Example 1:
+Please send sms to [phone number], and my message is '[your message here]'
+Please send whats app message to [phone number], and my message is '[your message here]'
+
+Example 2:
+Please send sms to [phone number], and my message is "[your message here]"
+Please send whats app message to [phone number], and my message is "[your message here]"
+
+#Note I haven't tested any other complex string or sentence yet, this could be improve ofcourse but for now it works that way
