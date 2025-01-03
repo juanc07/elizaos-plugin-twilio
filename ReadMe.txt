@@ -22,6 +22,7 @@ TWITTER_SEARCH_ENABLE=FALSE     # Enable timeline search, WARNING this greatly i
 TWILIO_ACCOUNT_SID=
 TWILIO_AUTH_TOKEN=
 TWILIO_PHONE_NUMBER=
+TWILIO_WHATSAPP_PHONE_NUMBER=
 
 # Server Configuration
 SERVER_PORT=3000
@@ -41,3 +42,17 @@ SERVER_PORT=3000
 visit twilio: https://www.twilio.com
 twilio quick start guides: https://www.twilio.com/docs/messaging/quickstart
 twilio documentation: https://www.twilio.com/docs/messaging
+Free Trial Account: https://www.twilio.com/docs/messaging/guides/how-to-use-your-free-trial-account
+
+# For WhatsApp guides follow the link below you need to have a separate twilio whatsapp enabled phone number 
+https://www.twilio.com/docs/whatsapp
+https://www.twilio.com/docs/whatsapp/quickstart/node
+https://www.twilio.com/docs/whatsapp/getting-started#registering-a-whatsapp-sender
+https://www.twilio.com/docs/verify/whatsapp
+
+
+#Some Other Whats App Info that you might need
+https://www.twilio.com/docs/whatsapp
+
+#Twilio Phone Number guidelines
+https://www.twilio.com/en-us/guidelines
